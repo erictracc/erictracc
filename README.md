@@ -13,7 +13,7 @@
 - 🛠️: Currently working in Global IT @ [Kinross Gold](https://www.kinross.com/home/).
 - :technologist: I love using software as a solution to every `Problem`.
 - :student: I’m currently learning `JavaScript` and `NodeJS`.
-- :nerd_face: Always trying to `learning new things`.
+- :nerd_face: Always trying to `learn new things`.
   <br><br>
 
 ## 🌐 Socials
