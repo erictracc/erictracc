@@ -9,11 +9,11 @@
 
 <picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAzMWhicjEyNmpqa2l6bm1laHV2OXBvNnhzdmdwc295cHVhczVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/62PQv0smnhacoItYG9/source.gif" width = 250px></picture>
 
-- :school: I am a fourth-year IT student at [York University](https://yorku.ca).
-- 🛠️: Currently working in Global IT @ [Kinross Gold](https://www.kinross.com/home/).
+- :school: I am a Masters IT student at [York University](https://yorku.ca).
+- 🛠️: Currently working as Global IT Systems Analyst @ [Kinross Gold](https://www.kinross.com/home/).
 - :technologist: I love using software as a solution to every `Problem`.
-- :student: I’m currently learning `JavaScript` and `NodeJS`.
-- :nerd_face: Always trying to `learn new things`.
+- :student: I’m currently learning `Flask` and `NodeJS`.
+- :nerd_face: Spending a lot of time trying to understand `AI`.
   <br><br>
 
 ## 🌐 Socials
@@ -61,3 +61,4 @@
   [![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?logo=Adobe%20Creative%20Cloud&logoColor=white)](#)
 
   <br><br>
+
